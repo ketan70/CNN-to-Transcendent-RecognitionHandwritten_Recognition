@@ -1,2 +1,1 @@
-# LGMVIP-DataScience-Task-2
-Handwritten Digit Recognition
+# Handwritten Digit Recognition
