@@ -10,7 +10,7 @@ NumPy
 
 ## Installation 
 
-##Clone the repository:
+## Clone the repository:
 
 #### bash
 
